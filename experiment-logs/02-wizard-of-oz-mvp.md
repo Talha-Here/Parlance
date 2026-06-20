@@ -3,7 +3,7 @@
 **Venture:** Parlance  
 **Date range:** May 22 – June 10, 2026  
 **Experiment type:** Solution validation (fake door / manual MVP)  
-**Submitted by:** [Your Name]
+**Submitted by:** Team Parlance
 
 ---
 

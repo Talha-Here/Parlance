@@ -3,7 +3,7 @@
 **Venture:** Parlance  
 **Date range:** June 11 – June 25, 2026  
 **Experiment type:** Retention & engagement  
-**Submitted by:** [Your Name]
+**Submitted by:** Team Parlance
 
 ---
 

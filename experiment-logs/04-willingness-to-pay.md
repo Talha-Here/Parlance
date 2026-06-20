@@ -3,7 +3,7 @@
 **Venture:** Parlance  
 **Date range:** June 26 – July 10, 2026  
 **Experiment type:** Pricing / monetization validation  
-**Submitted by:** [Your Name]
+**Submitted by:** Team Parlance
 
 ---
 

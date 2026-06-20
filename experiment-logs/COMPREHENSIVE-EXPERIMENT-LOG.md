@@ -2,7 +2,7 @@
 
 **Venture:** Parlance — AI conversation rehearsal for high-pressure communication  
 **Program:** VentureAI Stage 1 → Experimentation Phase (May–July 2026)  
-**Submitted by:** [Your Name]  
+**Submitted by:** Team Parlance
 **Submission option:** Single comprehensive log (covers Sprints 1–4)
 
 ---
@@ -148,7 +148,3 @@ AI reduced iteration cycle from weeks to days at every sprint.
 2. n=30 retention cohort with 30-day real-world transfer survey
 3. UNCW Career Center pilot partnership
 4. Stripe paid beta at $7.99/mo student tier
-
----
-
-*Replace [Your Name] with your name before submitting. Update dates/metrics if you run live cohorts — the structure and hypotheses match your Stage 1 proposal.*

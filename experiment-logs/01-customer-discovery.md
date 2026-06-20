@@ -3,7 +3,7 @@
 **Venture:** Parlance — AI conversation rehearsal for high-pressure communication  
 **Date range:** May 1–21, 2026  
 **Experiment type:** Problem validation / segment ranking  
-**Submitted by:** [Your Name]
+**Submitted by:** Team Parlance
 
 ---
 
